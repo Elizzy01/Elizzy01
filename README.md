@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Elizzy01/Elizzy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -45,10 +45,10 @@
 
 <h2>Connect with me</h3>
     <p>
-        <a href="https://www.linkedin.com/in/elizabethogunmola/"><img src="https://img.shields.io/badge/-Ruth%20Ikegah%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
+<!--         <a href="https://www.linkedin.com/in/elizabethogunmola/"><img src="https://img.shields.io/badge/-Ruth%20Ikegah%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/elizzy_g/"><img src="https://img.shields.io/badge/-IkegahRuth-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
         <a href="mailto:elizabethogunmola01@gmail.com"><img src="https://img.shields.io/badge/-Ruth%20Ikegah-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a>
-   </p>
+   </p> -->
    
  <!-- Conecct section: END -->
 
