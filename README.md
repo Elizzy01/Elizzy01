@@ -46,8 +46,8 @@
 <h2>Connect with me</h3>
     <p>
          <a href="https://www.linkedin.com/in/elizabethogunmola/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/elizzy_g/"><img src="https://img.shields.io/badge/-Elizzy_g-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-        <a href="mailto:elizabethogunmola01@gmail.com"><img src="https://img.shields.io/badge/-Twitter-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a>
+       <a href="https://twitter.com/elizzy_g/"><img src="https://img.shields.io/badge/-Twitter-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+        <a href="mailto:elizabethogunmola01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a>
    </p>
    
  <!-- Conecct section: END -->
