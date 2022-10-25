@@ -8,7 +8,7 @@
 <!-- Animation Typing -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Elizabeth+Ogunmola.;I'm+a+Developer,+Cloud+enthusiast;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Elizabeth+Ogunmola.;I'm+a+Developer,+Cloud+enthusiast.;"></a>
 </p>
 
 <!-- Animation Typing: END -->
@@ -17,7 +17,7 @@
 
 
 <!--Image Gif-->
-<img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" align="right" />
+<img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" />
 
 <!-- About me section -->
 
